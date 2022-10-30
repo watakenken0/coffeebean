@@ -77,7 +77,7 @@ li a{
 .main{
   height: 600px;
   width: 100%;
-  background-image: url("/assets/images/banner-bg.jpg");
+  background-image: url("/images/banner-bg.jpg");
   background-size: cover;
 }
 
@@ -134,7 +134,7 @@ h2 span {
 .pic-left{
   height: 300px;
   width: 47%;
-  background-image: url("/assets/images/ads-img1.jpg");
+  background-image: url("/images/ads-img1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -144,7 +144,7 @@ h2 span {
 .pic-right{
   height: 300px;
   width: 47%;
-  background-image: url("/assets/images/ads-img2.jpg");
+  background-image: url("/images/ads-img2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -240,7 +240,7 @@ h2 span {
 
 .discount{
   text-align: center;
-  background-image: url("/assets/images/discount-img.jpg");
+  background-image: url("/images/discount-img.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -296,7 +296,7 @@ h2 span {
 }
 
 .main-link1 {
-  background-image: url("/assets/images/ads-img3.jpg");
+  background-image: url("/images/ads-img3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -305,7 +305,7 @@ h2 span {
 }
 
 .main-link2 {
-  background-image: url("/assets/images/ads-img4.jpg");
+  background-image: url("/images/ads-img4.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -314,7 +314,7 @@ h2 span {
 }
 
 .main-link3 {
-  background-image: url("/assets/images/ads-img5.jpg");
+  background-image: url("/images/ads-img5.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -323,7 +323,7 @@ h2 span {
 }
 
 .main-link4 {
-  background-image: url("/assets/images/ads-img6.jpg");
+  background-image: url("/images/ads-img6.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -618,7 +618,7 @@ display: inline-block;
 /* footer up */
 
 .footer{
-  background-image: url("/assets/images/footer-img.jpg");
+  background-image: url("/images/footer-img.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
